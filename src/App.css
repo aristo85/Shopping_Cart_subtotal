@@ -1,0 +1,42 @@
+
+.container {
+  display: grid;
+  padding: 5px;
+  width: 400px;
+  margin: 10px auto auto auto;
+  background-color: lightcyan;
+  -webkit-box-shadow: -15px 22px 49px 5px rgba(0,0,0,0.47);
+  -moz-box-shadow: -15px 22px 49px 5px rgba(0,0,0,0.47);
+  box-shadow: -15px 22px 49px 5px rgba(0,0,0,0.47);
+  border-radius: 10px 10px 10px 10px;
+  -moz-border-radius: 10px 10px 10px 10px;
+  -webkit-border-radius: 10px 10px 10px 10px;
+  border: 26px solid #0fffff;
+}
+
+.subtotal_price {
+  color: red;
+  font-weight: bold;
+}
+.total_price {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.item-details-btn {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.item-details-img {
+  width: 100px;
+  height: 100px;
+}
+
+.media-body-text {
+padding-left: 10px;
+}
+
+.form-promocode {
+  background-color: lightblue;
+}
